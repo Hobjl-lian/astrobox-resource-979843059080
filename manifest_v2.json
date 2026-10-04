@@ -25,35 +25,47 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.2.7",
-      "file_name": "downloads/OS27模块-RW5RW6-V2-xmrw5.bin",
-      "versionCode": 66055,
+      "version": "1.2.8",
+      "file_name": "downloads/OS27模块-RW5RW6-V3-xmrw5.bin",
+      "versionCode": 66056,
       "updatelogs": [
         {
           "version": "1.2.7",
           "content": "修复日期显示错误的问题\n组件支持隐藏"
+        },
+        {
+          "version": "1.2.8",
+          "content": "修复时钟偏移的问题"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "1.2.7",
-      "file_name": "downloads/OS27模块-RW5RW6-V2-xmrw5xring.bin",
-      "versionCode": 66055,
+      "version": "1.2.8",
+      "file_name": "downloads/OS27模块-RW5RW6-V3-xmrw5xring.bin",
+      "versionCode": 66056,
       "updatelogs": [
         {
           "version": "1.2.7",
           "content": "修复日期显示错误的问题\n组件支持隐藏"
+        },
+        {
+          "version": "1.2.8",
+          "content": "修复时钟偏移的问题"
         }
       ]
     },
     "xmrw6": {
-      "version": "1.2.7",
-      "file_name": "downloads/OS27模块-RW5RW6-V2-xmrw6.bin",
-      "versionCode": 66055,
+      "version": "1.2.8",
+      "file_name": "downloads/OS27模块-RW5RW6-V3-xmrw6.bin",
+      "versionCode": 66056,
       "updatelogs": [
         {
           "version": "1.2.7",
           "content": "修复日期显示错误的问题\n组件支持隐藏"
+        },
+        {
+          "version": "1.2.8",
+          "content": "修复时钟偏移的问题"
         }
       ]
     },
